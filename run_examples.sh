@@ -1,5 +1,5 @@
 #!/bin/bash
-
+python_script="/media/mohammed/Work/LigandMPNN/run.py"
 #1
 python run.py \
         --seed 111 \
